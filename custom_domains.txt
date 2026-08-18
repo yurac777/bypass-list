@@ -277,13 +277,6 @@ licdn.com
 linea.build
 linear.app
 linkedin.com
-list routing_excluded_ips 100.116.182.78
-list routing_excluded_ips 185.138.252.0
-list routing_excluded_ips 185.62.200.0
-list routing_excluded_ips 194.85.60.0
-list routing_excluded_ips 213.184.128.0
-list routing_excluded_ips 85.198.76.0
-list routing_excluded_ips 95.161.64.0
 llamarpc.com
 log.tiktokv.com
 looksrare.org
@@ -343,13 +336,6 @@ openrouter.ai
 opensea.io
 optimism.io
 optimistic.etherscan.io
-option bootstrap_dns_server 77.88.8.1
-option cache_path
-option config_path
-option dns_server 1.1.1.1
-option proxy_string vless
-option user_domains_text google.com
-option user_subnets_text 91.108.4.0
 ota.bambulab.com
 p16-tiktokcdn-com.akamaiized.net
 p16-tiktokcdn-com.akamaized.net
@@ -372,6 +358,7 @@ pipopay.com
 pkg.dev
 platform.claude.com
 platform.openai.com
+plati.market
 plausibel.tdesktop.com
 play.google.com
 play.googleapis.com
@@ -481,6 +468,7 @@ supabase.io
 sushi.com
 t.co
 t.me
+tailscale.com
 tdesktop.com
 telega.one
 telegra.ph
@@ -557,8 +545,24 @@ whatsapp.net
 wikimedia.org
 wikipedia.org
 withyoutube.com
+www.antigravity.google
+www.capcut.com
 www.daily-author.ru
+www.facebook.com
+www.instagram.com
+www.linkedin.com
+www.messenger.com
+www.netflix.com
+www.pinnacle.com
+www.pinnaclesports.com
+www.pinterest.com
+www.reddit.com
+www.spotify.com
+www.tiktok.com
+www.twitch.tv
 www.vpn-rating.space
+www.wikipedia.org
+www.youtube.com
 x.ai
 x.com
 youtu.be
@@ -576,21 +580,3 @@ yt3.ggpht.com
 yt3.googleusercontent.com
 ytimg.com
 zksync.io
-plati.market
-tailscale.com
-www.antigravity.google
-www.capcut.com
-www.facebook.com
-www.instagram.com
-www.linkedin.com
-www.messenger.com
-www.netflix.com
-www.pinnacle.com
-www.pinnaclesports.com
-www.pinterest.com
-www.reddit.com
-www.spotify.com
-www.tiktok.com
-www.twitch.tv
-www.wikipedia.org
-www.youtube.com
