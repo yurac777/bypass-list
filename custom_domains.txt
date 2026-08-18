@@ -149,6 +149,7 @@ cursor.com
 cursor.sh
 curve.fi
 daily-author.ru
+dark.shopping
 dashboard.cohere.com
 data.chain.link
 dc.services.visualstudio.com
