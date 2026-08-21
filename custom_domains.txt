@@ -47,6 +47,7 @@ api.elevenlabs.io
 api.etherscan.io
 api.github.com
 api.huggingface.co
+api.magic.link
 api.mistral.ai
 api.openai.com
 api.openrouter.ai
@@ -69,6 +70,7 @@ arbitrum.io
 artists.youtube.com
 auth.antigravity.google
 auth.codeium.com
+auth.magic.link
 avax.network
 bambu-api.bambulab.com
 bambu-iot.bambulab.com
@@ -97,6 +99,7 @@ business-tiktok.com
 business.tiktok.com
 by-service.com
 byabcde.com
+byapis.com
 byapps.net
 byapps.org
 bybdc.com
@@ -106,13 +109,21 @@ bybit-aws.com
 bybit-exchange.com
 bybit-fiat.com
 bybit-global.com
+bybit-russia.com
 bybit-sg.com
+bybit-trading.com
+bybit.biz
 bybit.com
+bybit.net
 bybitcdn.com
 bybitglobal.com
 bycsi.com
+byd3.com
+byd5.com
 byfiat.com
 byfintech.com
+byimg.com
+bystatic.com
 bytedance.com
 bytedapm.com
 bytedns.com
@@ -142,6 +153,7 @@ chat.openai.com
 chatgpt.com
 claude.ai
 claude.com
+clob.polymarket.com
 cloud.google.com
 cloudaicompanion.googleapis.com
 cloudcode.google
@@ -169,6 +181,7 @@ curve.fi
 daily-author.ru
 dark.shopping
 dashboard.cohere.com
+data-api.polymarket.com
 data.chain.link
 dc.services.visualstudio.com
 deepmind.com
@@ -222,6 +235,7 @@ g-t-static.com
 g.alchemy.com
 g.co
 gaming.youtube.com
+gamma-api.polymarket.com
 gcr.io
 geckoterminal.com
 geller-pa.googleapis.com
@@ -304,6 +318,7 @@ m.capcut.com
 m.tiktok.com
 m.youtube.com
 macos.telegram.org
+magic.link
 magiceden.io
 mainnet.base.org
 mainnet.infura.io
@@ -385,7 +400,9 @@ pncl.com
 polkadot.network
 polygon.technology
 polygonscan.com
+polymarket.co
 polymarket.com
+polymarket.io
 porno365x.wiki
 proactivebackend-pa.googleapis.com
 public-cdn.bblmw.com
@@ -417,6 +434,7 @@ reddit.com
 redditstatic.com
 redirector.googlevideo.com
 relay.walletconnect.com
+relayer-v2.polymarket.com
 replicate.com
 repo.codeium.com
 roomplannerapp.com
@@ -476,6 +494,7 @@ steampowered.com
 steamstatic.com
 stel.com
 sticker.app
+strapi-matic.polymarket.com
 sts.googleapis.com
 studio.youtube.com
 suggestqueries-clients6.youtube.com
@@ -564,6 +583,7 @@ whatsapp.net
 wikimedia.org
 wikipedia.org
 withyoutube.com
+ws-subscriptions-clob.polymarket.com
 www.antigravity.google
 www.capcut.com
 www.daily-author.ru
