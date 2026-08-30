@@ -7,6 +7,7 @@ aave.com
 account.bambulab.com
 accounts.google.com
 accounts.youtube.com
+across.to
 ads-sg.business-tiktok.com
 ads-va.business-tiktok.com
 ads.tiktok.com
@@ -93,6 +94,7 @@ bambu-lab.cn
 bambu-lab.com
 bambu-ota.bambulab.com
 bambulab.com
+banxa.com
 bard.google.com
 base-mainnet.g.alchemy.com
 base-mainnet.infura.io
@@ -102,6 +104,7 @@ base.llamarpc.com
 base.org
 basescan.org
 bblmw.com
+biconomy.io
 bigquery.googleapis.com
 binance.cloud
 binance.com
@@ -115,6 +118,7 @@ blastapi.io
 blur.io
 bnbchain.org
 books.google.com
+bridge.xyz
 browser.antigravity.google
 bscscan.com
 bsky.app
@@ -244,6 +248,7 @@ drive.google.com
 drpc.org
 dune.com
 dydx.exchange
+dynamic.xyz
 elevenlabs.io
 ethereum.org
 etherscan.io
@@ -266,6 +271,7 @@ fk.money
 fmt.me
 fonts.googleapis.com
 fonts.gstatic.com
+fortmatic.com
 fp-sg.pipopay.com
 fpjs.io
 fragment.com
@@ -281,6 +287,7 @@ gamma-api.polymarket.com
 gate.io
 gcr.io
 geckoterminal.com
+gelato.digital
 geller-pa.googleapis.com
 gemini.google.com
 gemini.googleapis.com
@@ -356,6 +363,7 @@ lf16-ttmp.byteintlstatic.com
 lf16-ttmp.tiktokstaticb.com
 lf16-upay.g-t-static.com
 lf19-ttmp.tiktokstaticb.com
+li.fi
 libraweb-sg.tiktok.com
 licdn.com
 linea.build
@@ -396,6 +404,7 @@ mon-va.byteoversea.com
 mon-va.tiktokv.com
 mon.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
+moonpay.com
 moralis.io
 mqtt.bambulab.com
 mssdk-sg.byteoversea.com
@@ -426,6 +435,7 @@ okx.me
 okx.org
 openai.com
 openfpcdn.io
+openlogin.com
 openrouter.ai
 opensea.io
 optimism.io
@@ -462,12 +472,16 @@ pncl.com
 poe.com
 polkadot.network
 poly-market.com
+polygon-rpc.com
 polygon.technology
 polygonscan.com
 polymarket.co
 polymarket.com
 polymarket.io
+polymarket.sh
+polymarket.us
 porno365x.wiki
+privy.io
 pro.coinbase.com
 proactivebackend-pa.googleapis.com
 public-cdn.bblmw.com
@@ -475,6 +489,7 @@ publicnode.com
 pubsub.googleapis.com
 pypi.org
 quicknode.com
+quiknode.pro
 quiz.directory
 quora.com
 r1---sn-4g5edndr.googlevideo.com
@@ -504,6 +519,7 @@ redditstatic.com
 redirector.googlevideo.com
 relay.walletconnect.com
 relayer-v2.polymarket.com
+reown.com
 replicate.com
 replicate.delivery
 repo.codeium.com
@@ -625,6 +641,8 @@ together.xyz
 ton.network
 tonscan.org
 tonviewer.com
+tor.us
+transak.com
 translate.google.com
 translate.googleapis.com
 trezor.io
@@ -632,6 +650,8 @@ trustwallet.com
 tsr16-normal-useast1a.tiktok.com
 ttvnw.net
 ttwstatic.com
+turnkey.com
+turnkey.io
 turnstile.cloudflare.com
 tuya.com
 tuyaeu.com
@@ -641,6 +661,7 @@ twitch.tv
 twitter.com
 tx.me
 udio.com
+uma.xyz
 uniswap.org
 update.antigravity.google
 update.code.visualstudio.com
@@ -671,9 +692,11 @@ vt.tiktok.com
 waa-pa.clients6.google.com
 walletconnect.com
 walletconnect.org
+walletlink.org
 web-sg.tiktok.com
 web.telegram.org
 web.whatsapp.com
+web3auth.io
 web3modal.com
 webk.telegram.org
 webz.telegram.org
