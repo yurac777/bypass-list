@@ -30,6 +30,8 @@ analytics.tiktok.com
 android.clients.google.com
 ankr.com
 anthropic.com
+anthropic.io
+anthropics.com
 antigravity-unleash.goog
 antigravity.google
 api-sepolia.basescan.org
@@ -77,6 +79,7 @@ apple.com
 appstore.com
 arbiscan.io
 arbitrum.io
+arcot.com
 arkhamintelligence.com
 artists.youtube.com
 auth.antigravity.google
@@ -159,6 +162,7 @@ capcut.app
 capcut.com
 capcut.net
 capcutstatic.com
+cardinalcommerce.com
 cdn-apple.com
 cdn-images-1.medium.com
 cdn-telegram.org
@@ -168,6 +172,7 @@ cdn.openai.com
 cdn.sstatic.net
 cdninstagram.com
 cdnvids.com
+cf-assets.cloudflare.com
 chain.link
 chainstack.com
 challenges.cloudflare.com
@@ -177,6 +182,7 @@ chatgpt.com
 claude.ai
 claude.com
 claude.usercontent.com
+claudeusercontent.com
 clipdrop.co
 clob.polymarket.com
 cloud.google.com
@@ -214,6 +220,7 @@ dark.shopping
 dashboard.cohere.com
 data-api.polymarket.com
 data.chain.link
+datadoghq.com
 dc.services.visualstudio.com
 debank.com
 deepmind.com
@@ -384,6 +391,7 @@ mexc.com
 microsoft.com
 midjourney.com
 mistral.ai
+modirum.com
 mon-va.byteoversea.com
 mon-va.tiktokv.com
 mon.tiktokv.com
@@ -527,6 +535,10 @@ s3.us-west-2.amazonaws.com
 safe.global
 scdn.co
 scholar.google.com
+segment.com
+segment.io
+sentry-cdn.com
+sentry.io
 sepolia.base.org
 sepolia.basescan.org
 servicecontrol.googleapis.com
@@ -566,6 +578,7 @@ stel.com
 sticker.app
 store.steampowered.com
 strapi-matic.polymarket.com
+stripe-images.com
 stripe.com
 stripe.network
 sts.googleapis.com
@@ -619,6 +632,7 @@ trustwallet.com
 tsr16-normal-useast1a.tiktok.com
 ttvnw.net
 ttwstatic.com
+turnstile.cloudflare.com
 tuya.com
 tuyaeu.com
 tv.youtube.com
@@ -635,6 +649,7 @@ upload.wikimedia.org
 upload.youtube.com
 us.bambulab.com
 us.mqtt.bambulab.com
+usefathom.com
 usercontent.dev
 v.capcut.com
 v0.dev
@@ -667,6 +682,7 @@ whatsapp.net
 wikimedia.org
 wikipedia.org
 withyoutube.com
+workos.com
 ws-subscriptions-clob.polymarket.com
 www.antigravity.google
 www.bybit.com
