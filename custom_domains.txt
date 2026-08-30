@@ -27,6 +27,7 @@ alkalimakersuite-pa.clients6.google.com
 alkalimorphic-pa.googleapis.com
 alm-quant.xyz
 amazonaws.com
+amplitude.com
 analytics.tiktok.com
 android.clients.google.com
 ankr.com
@@ -118,6 +119,7 @@ blastapi.io
 blur.io
 bnbchain.org
 books.google.com
+braze.com
 bridge.xyz
 browser.antigravity.google
 bscscan.com
@@ -217,9 +219,11 @@ csgolounge.com
 cursor.com
 cursor.sh
 curve.fi
+customer.io
 daily-author.ru
 daily-cloudcode-pa.googleapis.com
 daily-cloudcode-pa.sandbox.googleapis.com
+daimo.com
 dark.shopping
 dashboard.cohere.com
 data-api.polymarket.com
@@ -279,6 +283,7 @@ freekassa.com
 freekassa.net
 freekassa.ru
 ftmscan.com
+fun.xyz
 g-t-static.com
 g.alchemy.com
 g.co
@@ -293,6 +298,7 @@ gemini.google.com
 gemini.googleapis.com
 generativeai.googleapis.com
 generativelanguage.googleapis.com
+geojs.io
 getblock.io
 ggpht.com
 github.com
@@ -346,6 +352,9 @@ intercom.io
 intercomcdn.com
 interface.gateway.uniswap.org
 iot.bambulab.com
+ip-api.com
+ipapi.co
+ipinfo.io
 jtvnw.net
 kaggle.com
 kids.youtube.com
@@ -487,6 +496,7 @@ proactivebackend-pa.googleapis.com
 public-cdn.bblmw.com
 publicnode.com
 pubsub.googleapis.com
+pusher.com
 pypi.org
 quicknode.com
 quiknode.pro
@@ -517,6 +527,7 @@ redd.it
 reddit.com
 redditstatic.com
 redirector.googlevideo.com
+relay.link
 relay.walletconnect.com
 relayer-v2.polymarket.com
 reown.com
@@ -607,6 +618,7 @@ suno.com
 supabase.com
 supabase.io
 sushi.com
+swapped.com
 t.co
 t.me
 tailscale.com
