@@ -82,6 +82,7 @@ artists.youtube.com
 auth.antigravity.google
 auth.codeium.com
 auth.magic.link
+auth0.com
 avax.network
 bambu-api.bambulab.com
 bambu-iot.bambulab.com
@@ -169,11 +170,13 @@ cdninstagram.com
 cdnvids.com
 chain.link
 chainstack.com
+challenges.cloudflare.com
 chat.deepseek.com
 chat.openai.com
 chatgpt.com
 claude.ai
 claude.com
+claude.usercontent.com
 clipdrop.co
 clob.polymarket.com
 cloud.google.com
@@ -181,6 +184,7 @@ cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 cloudcode.google
 cloudcode.googleapis.com
+cloudflareinsights.com
 cloudkms.googleapis.com
 cloudresourcemanager.googleapis.com
 codeium.com
@@ -324,6 +328,8 @@ icandesignapp.com
 icloud.com
 infura.io
 instagram.com
+intercom.io
+intercomcdn.com
 interface.gateway.uniswap.org
 iot.bambulab.com
 jtvnw.net
@@ -551,6 +557,8 @@ stackoverflow.com
 starknet.io
 starling-sg.tiktokv.com
 stats.claude.ai
+statsig.com
+statsigapi.net
 steamcommunity.com
 steampowered.com
 steamstatic.com
@@ -558,6 +566,8 @@ stel.com
 sticker.app
 store.steampowered.com
 strapi-matic.polymarket.com
+stripe.com
+stripe.network
 sts.googleapis.com
 studio.youtube.com
 substack.com
