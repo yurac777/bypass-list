@@ -154,6 +154,8 @@ byfintech.com
 byimg.com
 bystatic.com
 bytedance.com
+bytedance.net
+bytedanceapi.com
 bytedapm.com
 bytedns.com
 bytegecko.com
@@ -168,6 +170,8 @@ capcut.app
 capcut.com
 capcut.net
 capcutstatic.com
+capcutapi.com
+capcutvod.com
 cardinalcommerce.com
 cdn-apple.com
 cdn-images-1.medium.com
@@ -701,6 +705,8 @@ vpn.kukla-shop.online
 vr.youtube.com
 vscode.dev
 vt.tiktok.com
+volces.com
+volcengine.com
 waa-pa.clients6.google.com
 walletconnect.com
 walletconnect.org
@@ -756,3 +762,4 @@ yt3.googleusercontent.com
 ytimg.com
 zerion.io
 zksync.io
+zijieapi.com
