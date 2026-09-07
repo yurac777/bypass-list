@@ -121,6 +121,7 @@ bnbchain.org
 books.google.com
 braze.com
 bridge.xyz
+browser-intake-datadoghq.com
 browser.antigravity.google
 bscscan.com
 bsky.app
@@ -169,8 +170,8 @@ c.paypal.com
 capcut.app
 capcut.com
 capcut.net
-capcutstatic.com
 capcutapi.com
+capcutstatic.com
 capcutvod.com
 cardinalcommerce.com
 cdn-apple.com
@@ -325,6 +326,7 @@ googlevideo.com
 graph.org
 grok.com
 groq.com
+growthbook.io
 gstatic.com
 guild.xyz
 gvt1.com
@@ -614,6 +616,7 @@ stripe.com
 stripe.network
 sts.googleapis.com
 studio.youtube.com
+stytch.com
 substack.com
 suggestqueries-clients6.youtube.com
 suggestqueries.google.com
@@ -699,14 +702,14 @@ viacp.com
 video-stats.l.google.com
 visualstudio.com
 vm.tiktok.com
+volcengine.com
+volces.com
 vortex.data.microsoft.com
 vpn-rating.space
 vpn.kukla-shop.online
 vr.youtube.com
 vscode.dev
 vt.tiktok.com
-volces.com
-volcengine.com
 waa-pa.clients6.google.com
 walletconnect.com
 walletconnect.org
@@ -761,5 +764,5 @@ yt3.ggpht.com
 yt3.googleusercontent.com
 ytimg.com
 zerion.io
-zksync.io
 zijieapi.com
+zksync.io
