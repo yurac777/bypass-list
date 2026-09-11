@@ -25,7 +25,6 @@ alchemyapi.io
 alkali.googleapis.com
 alkalimakersuite-pa.clients6.google.com
 alkalimorphic-pa.googleapis.com
-alm-quant.xyz
 amazonaws.com
 amplitude.com
 analytics.tiktok.com
@@ -225,7 +224,6 @@ cursor.com
 cursor.sh
 curve.fi
 customer.io
-daily-author.ru
 daily-cloudcode-pa.googleapis.com
 daily-cloudcode-pa.sandbox.googleapis.com
 daimo.com
@@ -461,7 +459,6 @@ p16-tiktokcdn-com.akamaized.net
 pancakeswap.finance
 pancakeswap.org
 patreon.com
-pay.alm-quant.xyz
 payments.youtube.com
 paypal.com
 perplexity.ai
@@ -705,7 +702,6 @@ vm.tiktok.com
 volcengine.com
 volces.com
 vortex.data.microsoft.com
-vpn-rating.space
 vpn.kukla-shop.online
 vr.youtube.com
 vscode.dev
@@ -731,7 +727,6 @@ ws-subscriptions-clob.polymarket.com
 www.antigravity.google
 www.bybit.com
 www.capcut.com
-www.daily-author.ru
 www.facebook.com
 www.instagram.com
 www.linkedin.com
@@ -744,7 +739,6 @@ www.reddit.com
 www.spotify.com
 www.tiktok.com
 www.twitch.tv
-www.vpn-rating.space
 www.wikipedia.org
 www.youtube.com
 x.ai
