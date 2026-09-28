@@ -84,6 +84,7 @@ arcot.com
 arkhamintelligence.com
 artists.youtube.com
 auth.antigravity.google
+auth.cloud.google
 auth.codeium.com
 auth.magic.link
 auth0.com
@@ -182,6 +183,7 @@ cdn.openai.com
 cdn.sstatic.net
 cdninstagram.com
 cdnvids.com
+cel.dev
 cf-assets.cloudflare.com
 chain.link
 chainstack.com
@@ -195,6 +197,7 @@ claude.usercontent.com
 claudeusercontent.com
 clipdrop.co
 clob.polymarket.com
+cloud.google
 cloud.google.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
@@ -211,6 +214,7 @@ coinglass.com
 coinmarketcap.com
 colab.research.google.com
 comments.app
+connectrpc.com
 consent.youtube.com
 console.anthropic.com
 console.groq.com
@@ -310,7 +314,10 @@ githubcopilot.com
 githubusercontent.com
 gitlab.com
 glassnode.com
+goog
+google
 google-analytics.com
+google.ai
 google.com
 google.dev
 googleadservices.com
@@ -496,6 +503,7 @@ porno365x.wiki
 privy.io
 pro.coinbase.com
 proactivebackend-pa.googleapis.com
+protobuf.dev
 public-cdn.bblmw.com
 publicnode.com
 pubsub.googleapis.com
@@ -721,6 +729,7 @@ whatsapp.com
 whatsapp.net
 wikimedia.org
 wikipedia.org
+withgoogle.com
 withyoutube.com
 workos.com
 ws-subscriptions-clob.polymarket.com
