@@ -315,20 +315,25 @@ api.github.com
 api.githubcopilot.com
 api.groq.com
 api.huggingface.co
+api.hyperliquid.xyz
 api.kraken.com
 api.kucoin.com
 api.magic.link
 api.mistral.ai
+api.odds-api.io
 api.openai.com
 api.openrouter.ai
 api.perplexity.ai
 api.polygonscan.com
 api.polymarket.com
+api.privy.io
 api.quicknode.com
 api.replicate.com
 api.runwayml.com
 api.stability.ai
 api.telegram.org
+api.temp-mail.org
+api.the-odds-api.com
 api.together.ai
 api.uniswap.org
 api.walletconnect.com
@@ -341,6 +346,11 @@ apornotube.net
 apornstories.com
 aporntv.com
 apornvideo.com
+app.aave.com
+app.drift.trade
+app.dynamic.xyz
+app.gmx.io
+app.hyperliquid.xyz
 app.uniswap.org
 apple.com
 appstore.com
@@ -441,6 +451,7 @@ asiporno.com
 asiporno.xyz
 asporno.info
 asporno.net
+assets.polymarket.com
 assexmarkets-app.com
 astridochaporna.net
 attachments.f95zone.to
@@ -450,6 +461,7 @@ auth.antigravity.google
 auth.cloud.google
 auth.codeium.com
 auth.magic.link
+auth.privy.io
 auth0.com
 avax.network
 aveliporn.com
@@ -495,6 +507,7 @@ bbwlesbianporn.com
 bbwporn.sex
 bbwpornpics.com
 bbwxxxpics.com
+bc.game
 bdsm-sex.pro
 bdsmporn.kim
 bdsmporno.ru
@@ -577,6 +590,8 @@ bestzzporno.lat
 bestzzporno.lol
 bestzzporno.online
 bestzzporno.pro
+bet365.com
+betfair.com
 bhabhixxx.pro
 bi-porno.life
 bi-porno.xyz
@@ -616,6 +631,7 @@ binance.net
 binance.org
 binance.vision
 bingoporno.com
+bingx.com
 biporn.com
 bisexdigital.com
 bisexhd.com
@@ -629,11 +645,15 @@ bisexualphoria.com
 bisexualtrainer.com
 bisexualunderground.org
 bitbucket.org
+bitfinex.com
 bitget.com
 bitporno.com
+bitstamp.net
+blackforestlabs.ai
 blastapi.io
 blogvporn.com
 blowjobvideos.xxx
+bluefin.io
 blur.io
 bnbchain.org
 boafoda.porn
@@ -721,6 +741,7 @@ bybit-sg.com
 bybit-trading.com
 bybit.biz
 bybit.com
+bybit.global
 bybit.net
 bybitcdn.com
 bybitglobal.com
@@ -741,6 +762,7 @@ bytedance.net
 bytedanceapi.com
 bytedapm.com
 bytedns.com
+bytedns.net
 bytegecko.com
 byteintl.net
 byteintlstatic.com
@@ -814,6 +836,7 @@ cel.dev
 ceskeporno.cz
 cf-assets.cloudflare.com
 chain.link
+chainflip.io
 chainstack.com
 challenges.cloudflare.com
 chastnoeporno.pro
@@ -927,6 +950,7 @@ cockpornpictures.com
 codeium.com
 cohere.com
 coinbase.com
+coinex.com
 coingecko.com
 coinglass.com
 coinmarketcap.com
@@ -953,6 +977,7 @@ comicspornpic.com
 comicsxxx.net
 comments.app
 completeporndatabase.com
+compound.finance
 connectrpc.com
 consent.youtube.com
 console.anthropic.com
@@ -978,6 +1003,7 @@ cosmosex.by
 cosplaypornvideos.com
 cosplayrule34.com
 cougarmilfporn.com
+cow.fi
 cozyporn.com
 cozyxxx.com
 craporn.com
@@ -992,6 +1018,7 @@ createporn.com
 creatoracademy.youtube.com
 crocoporn.com
 cruisingporn.com
+crypto.com
 csgolounge.com
 cuckoldplace.xxx
 cuckoldporn.cc
@@ -1123,6 +1150,8 @@ doxysexy.com
 dporn.com
 dpporn.com
 dreamyporn.ai
+drift.foundation
+drift.trade
 drive.google.com
 driverxxx.com
 drpc.org
@@ -1134,6 +1163,7 @@ duckporn.pro
 dump.xxx
 dune.com
 dydx.exchange
+dydx.trade
 dynamic.xyz
 e-hentai.org
 easyporn.xxx
@@ -1185,6 +1215,7 @@ ecoporno.cc
 ecoporno.org
 ecoporno.ru
 eggporncomics.com
+eigenlayer.xyz
 ekasex.info
 ekasex.online
 ekasex.org
@@ -1198,6 +1229,7 @@ elitesexyvideos.com
 elitexxxvideos.com
 elmundoporno.com
 emaporn.com
+embed.polymarket.com
 emmaporn.com
 en-youporn.com
 enespanolporno.com
@@ -1247,6 +1279,7 @@ eskort-xxx.net
 esxxxx.com
 etahub.com
 eteenporn.com
+ether.fi
 ethereum.org
 etherscan.io
 etopornovideo.com
@@ -1262,6 +1295,7 @@ europeangayporn.com
 europornstar.com
 eurosexygirls.com
 euroxxx.net
+events.polymarket.com
 everydayporn.com
 evexxx.com
 evexxx.me
@@ -1368,7 +1402,9 @@ fk.money
 fkan8-admxxx-5d6dh.net
 flash-porno.com
 fliporno.net
+flux.ai
 fmt.me
+fon.bet
 fonts.googleapis.com
 fonts.gstatic.com
 forteporn.com
@@ -1746,6 +1782,7 @@ getjapansexvideos.shop
 getpornohd.com
 gettransexualhot.net
 gfysex.com
+gg.bet
 ggpht.com
 gibddrf-xxxhrqm.click
 gibddrf-xxxvgpi.click
@@ -1804,6 +1841,7 @@ givemeporn.club
 gizmoxxx.com
 glassnode.com
 gloryporn.net
+gmx.io
 gnk7t-admxxx-1o3on.com
 goasianpornvideos.shop
 gochinaxxxvideos.shop
@@ -1826,8 +1864,6 @@ goodmorningsex.com
 goodporno.live
 goodporno.pro
 goodpornotube.net
-goog
-google
 google-analytics.com
 google.ai
 google.com
@@ -2188,6 +2224,7 @@ hydievpornovideo.com
 hydievpornovideo.net
 hydievpornovideo.one
 hydievpornovideo.online
+hyperliquid.xyz
 i-pornhub.com
 i-sux.porn
 i-teenxxx.com
@@ -2217,6 +2254,7 @@ ifreepornpics.com
 igayporn.tv
 igaysex.tv
 ii-porno.com
+images.polymarket.com
 imagesporno.com
 imake.porn
 imgporn.site
@@ -2280,6 +2318,7 @@ iporntv.dev
 iporntv.net
 iqporno.ru
 isex.casa
+isnssdk.com
 isporno.net
 italianskoe-porno.com
 its.porn
@@ -2374,6 +2413,9 @@ jpxxxpics.com
 jtvnw.net
 juegosxxxgratis.com
 juicygaypornpics.com
+jumper.exchange
+jup.ag
+jupiter.ag
 justfullporn.com
 justfullporn.net
 justporn.club
@@ -2383,6 +2425,8 @@ justsexpictures.com
 k2sporn.com
 k2sporn.net
 kaggle.com
+kalshi.com
+kamino.finance
 katporn.com
 kazakhporno.com
 kazporn.org
@@ -2440,6 +2484,8 @@ krimsex.ru
 kucoin.com
 kukla-shop.online
 kuporno.org
+kwenta.io
+kyberswap.com
 kyrgyz-porn.click
 kznsex.xyz
 l.google.com
@@ -2473,6 +2519,7 @@ latestpornvideos.com
 latinaporn.one
 latinasxxxx.com
 latinsexygirls.com
+leaderboard.polymarket.com
 leak-sex-tape.com
 leak.xxx
 leakporner.com
@@ -2546,6 +2593,8 @@ lgbtporn.net
 li.fi
 libraweb-sg.tiktok.com
 licdn.com
+lido.fi
+lifinity.io
 lightxxxtube.com
 like-porno.org
 likemyporn.com
@@ -2625,6 +2674,7 @@ mainnet.base.org
 mainnet.infura.io
 maintwinkxxxmovies.click
 make-japanporn.com
+makerdao.com
 makerworld.bblmw.com
 makerworld.com
 makevidxxx.com
@@ -2644,6 +2694,7 @@ mangaporno.net
 mangaporno.pro
 mangohdporno.com
 manifest.googlevideo.com
+manifold.markets
 manporn.xxx
 manporntube.com
 mansionsexmex.com
@@ -2653,6 +2704,8 @@ manysex.tube
 manysex.vip
 manyvids.com
 maps.googleapis.com
+marathonbet.com
+marginfi.com
 marketplace.antigravity.google
 marketplace.visualstudio.com
 masseurporn.com
@@ -2746,6 +2799,7 @@ maturexxxroom.shop
 maturexxxshow.shop
 maturexxxxhub.shop
 maxiporn.com
+maya.protocol
 mcs-sg.tiktokv.com
 mcs-va.tiktokv.com
 medium.com
@@ -2780,8 +2834,10 @@ mermaid.ai
 messari.io
 messenger.com
 messyzoosex.com
+metaculus.com
 metamask.io
 metaporn.com
+meteora.ag
 mexc.com
 mfvideoxxx.com
 microsoft.com
@@ -3148,6 +3204,8 @@ oaistatic.com
 oaiusercontent.com
 oauth2.googleapis.com
 ocoporno.net
+odds-api.io
+oddsapi.io
 odessa.xxx
 ogporn.com
 ohasianpornvideos.shop
@@ -3161,6 +3219,7 @@ okporn.com
 okporno.tv
 okx.com
 okx.me
+okx.net
 okx.org
 oldmaturesex.shop
 oldmomporn.shop
@@ -3235,9 +3294,13 @@ openpornvideos.pro
 openrouter.ai
 opensea.io
 openxxxporn.com
+opinion.trade
 opporno.club
 optimism.io
 optimistic.etherscan.io
+oracle.polymarket.com
+orca.so
+orderly.network
 orgyxxxhub.com
 oriental-porno.com
 originalindianporn.com
@@ -3260,6 +3323,9 @@ pansexual.dating
 pansexualporn.com
 pansexualx.com
 panty-porn.com
+paraswap.io
+parcl.co
+parimatch.com
 parispornmovies.com
 passionhdporn.com
 patreon.com
@@ -3267,6 +3333,7 @@ payments.youtube.com
 paypal.com
 payporn.info
 pbc.xxx
+pendle.finance
 perfectchinapornvideos.shop
 perfectgaysexvideos.click
 perfectgayxxxmovies.click
@@ -3281,6 +3348,7 @@ petsmedsexpress.com
 pezporn.com
 phantom.app
 phatassporn.com
+phemex.com
 phim-sexhd.biz
 phncdn.com
 phncdn.com.sds.rncdn7.com
@@ -3324,6 +3392,7 @@ pncl.com
 poe.com
 polarpornhd.com
 polkadot.network
+poloniex.com
 poly-market.com
 polygon-rpc.com
 polygon.technology
@@ -3331,6 +3400,9 @@ polygonscan.com
 polymarket.co
 polymarket.com
 polymarket.io
+polymarket.link
+polymarket.net
+polymarket.org
 polymarket.sh
 polymarket.us
 ponyanimalsex.com
@@ -4999,7 +5071,9 @@ pornzoned.com
 pornzoo.love
 pornzoovideos.com
 pornzt.com
+portalbridge.com
 ppornn.com
+predict.fun
 pregnantfreeporn.com
 pregnantporn24.com
 pregnantpornstars.com
@@ -5168,6 +5242,7 @@ rasha-porno.com
 rat.xxx
 raw.githubusercontent.com
 rawporn.org
+raydium.io
 realamateurgayporn.com
 realasianxxxvideos.shop
 realbdsmporn.net
@@ -5213,8 +5288,10 @@ redwap-xxx.com
 reference-sexe.com
 reifporn.de
 relay.link
+relay.polymarket.com
 relay.walletconnect.com
 relayer-v2.polymarket.com
+relayer.polymarket.com
 reneelaruexxx.com
 rentry.org
 reown.com
@@ -5236,8 +5313,11 @@ rgporn.org
 ricsporn.com
 roccosiffredixxx.it
 rock.porn
+rocketpool.net
 rockporn.pro
 rockyxxx.com
+rollbit.com
+roobet.com
 roomplannerapp.com
 roughhardsex.com
 rpc.notadegen.com
@@ -5450,6 +5530,7 @@ saggytitsporn.com
 saintporn.com
 samarasex7.com
 sambaporno.com
+sanctum.so
 sankakuapi.com
 sankakucomplex.com
 sankakustatic.com
@@ -6651,6 +6732,7 @@ sf16-website-login.neutral.tiktokcdn-eu.com
 sf16-website-login.neutral.ttwstatic.com
 sfreeporn.com
 sg.tiktokv.com
+sgsnssdk.com
 shadbase.xxx
 sharkyporn.com
 sheets.googleapis.com
@@ -6675,6 +6757,7 @@ shemaletrannysex.com
 shemalexvideos.pro
 shit-porn.net
 shorts.xxx
+shuffle.com
 shufflesex.com
 sinnsagexxx.com
 sinssexshop.com
@@ -6718,8 +6801,10 @@ snowtrace.io
 snssdk.com
 snuffphonesex.com
 soasianxxx.shop
+socket.tech
 solana.com
 solana.fm
+solend.fi
 solopornoitaliani.xxx
 solscan.io
 some.porn
@@ -6738,12 +6823,15 @@ spornoa.pro
 spotify.com
 spotifycdn.com
 spunkpornpics.com
+squidrouter.com
 ssporno.ru
 sss.xxx
 sstatic.net
 stability.ai
 stackoverflow.com
+stake.com
 stallionbestialityxxx.com
+stargate.finance
 starknet.io
 starling-sg.tiktokv.com
 staroeporno.com
@@ -6763,6 +6851,7 @@ stop-sex.com
 store.steampowered.com
 str8upgayporn.com
 strapi-matic.polymarket.com
+strapi-polymarket.com
 stripchat.com
 stripchat.community
 stripchat.global
@@ -6800,6 +6889,8 @@ swingerpornfun.com
 swingingpornstars.com
 sxyporn.tv
 sxyprnxxx.com
+synapseprotocol.com
+synfutures.com
 t.co
 t.me
 t.porn
@@ -6887,6 +6978,11 @@ telegram.org
 telegram.space
 telemetry.antigravity.google
 telesco.pe
+temp-mail.net
+temp-mail.org
+temp-mail.ru
+tempmail.net
+tempmail.org
 tenderly.co
 tensor.trade
 tentacleporn.net
@@ -6902,6 +6998,7 @@ thaipornhd.com
 thaipornsex.com
 thaiporntube.name
 thaiporntubes.com
+the-odds-api.com
 the-simpsonsporn.com
 the-simpsonsxxx.com
 thebongacams.com
@@ -6932,6 +7029,8 @@ theshemale.xxx
 theshocker.xxx
 thexxxtherapist.com
 thirdweb.com
+thorchain.org
+thorswap.finance
 threads.net
 tickle.porn
 tightpussysex.com
@@ -6943,12 +7042,17 @@ tiktok.me
 tiktokcdn-com.akamaiized.net
 tiktokcdn-com.akamaized.net
 tiktokcdn-eu.com
+tiktokcdn-in.com
 tiktokcdn-us.com
 tiktokcdn.com
+tiktokd.net
 tiktokinfo.com
+tiktokmusic.me
 tiktokstaticb.com
 tiktokv.com
 tiktokv.eu
+tiktokv.us
+tiktokw.us
 timeadult.com
 titanicporn.com
 titanmenporn.com
@@ -6957,6 +7061,8 @@ tmwporn.com
 tnt-porno.ru
 together.ai
 together.xyz
+tokenmetrics.com
+tokenterminal.com
 tokyoporns.com
 tolkoporno.net
 tomorrowporn.com
@@ -7077,6 +7183,8 @@ trytwinkxxxvideos.click
 tspornotube.com
 tspornpics.com
 tsr16-normal-useast1a.tiktok.com
+ttapis.com
+ttlivecdn.com
 ttvnw.net
 ttwstatic.com
 tube-hd-sex.com
@@ -7178,6 +7286,7 @@ ultra4kporn.com
 ultrafilms.xxx
 ultrapornstream.shop
 ultrateenporn.com
+uma.polymarket.com
 uma.xyz
 uncensoredhentai.xxx
 unerencontresexy.com
@@ -7301,6 +7410,7 @@ vrxxx.com
 vscode.dev
 vsporntube.com
 vt.tiktok.com
+vulkan.bet
 vulvapornpics.com
 vxxx.com
 waa-pa.clients6.google.com
@@ -7379,12 +7489,15 @@ woow-porn.com
 workos.com
 worldpornvideos.com
 worldsex.com
+wormhole.com
 wow-xxx-videos.com
 wowgirls.xxx
 wowporn.com
 wowpornmovies.com
 wporncomics.com
+ws-clob.polymarket.com
 ws-subscriptions-clob.polymarket.com
+ws-subscriptions.polymarket.com
 wsexcomics.com
 wtf.porn
 wtfpornpass.com
@@ -7402,6 +7515,7 @@ www.netflix.com
 www.pinnacle.com
 www.pinnaclesports.com
 www.pinterest.com
+www.polymarket.com
 www.reddit.com
 www.spotify.com
 www.tiktok.com
