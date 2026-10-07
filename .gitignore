@@ -1,0 +1,21 @@
+# Security & Credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.session
+*.session-journal
+*credentials*.json
+id_rsa*
+
+# Logs & Temp
+*.log
+*.tmp
+*.bak
+.trash*
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
